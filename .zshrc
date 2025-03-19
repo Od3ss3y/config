@@ -24,4 +24,4 @@ alias theharvester='python3 theHarvester.py'
 alias sherlock='python3 sherlock'
 alias proxychains='proxychains4'
 alias routersploit='python3 rsf.py'
-PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Wireshark.app/Contents/MacOS:/usr/local/WhatWeb-0.5.5:/opt/metasploit-framework/b$
+PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Applications/Wireshark.app/Contents/MacOS:/usr/local/WhatWeb-0.5.5:/opt/metasploit-framework/
